@@ -1,1 +1,2 @@
 day la note cua truongdz123
+git push
